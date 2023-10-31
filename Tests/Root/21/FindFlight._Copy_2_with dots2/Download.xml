@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Owners>
+  <OwnerId>15</OwnerId>
+  <OwnerType>TEST</OwnerType>
+  <Name><![CDATA[FindFlight._Copy_2..]]></Name>
+  <FSRoot><![CDATA[Test\15\15\6]]></FSRoot>
+  <FSPath><![CDATA[Test\15\15\6]]></FSPath>
+  <QCPath><![CDATA[Subject\demo video_Copy\FindFlight._Copy_2..]]></QCPath>
+  <Owner>
+    <OwnerId>15</OwnerId>
+    <OwnerType>TEST</OwnerType>
+    <Name><![CDATA[FindFlight._Copy_2..]]></Name>
+    <FSRoot><![CDATA[Test\15\15\6]]></FSRoot>
+    <FSPath><![CDATA[Test\15\15\6]]></FSPath>
+    <QCPath><![CDATA[Subject\demo video_Copy\FindFlight._Copy_2..]]></QCPath>
+    <Relation>
+      <RelatedId>1043</RelatedId>
+      <RelatedType>USER_ASSETS</RelatedType>
+      <Name><![CDATA[Main Test Flow]]></Name>
+      <FSRoot><![CDATA[Test\15\15\6]]></FSRoot>
+      <FSPath><![CDATA[Test\15\15\6]]></FSPath>
+      <QCPath><![CDATA[Subject\demo video_Copy\FindFlight._Copy_2..]]></QCPath>
+    </Relation>
+    <Relation>
+      <RelatedId>1044</RelatedId>
+      <RelatedType>USER_ASSETS</RelatedType>
+      <Name><![CDATA[TEST_Data]]></Name>
+      <FSRoot><![CDATA[Test\15\15\6]]></FSRoot>
+      <FSPath><![CDATA[Test\15\15\6]]></FSPath>
+      <QCPath><![CDATA[Subject\demo video_Copy\FindFlight._Copy_2..]]></QCPath>
+    </Relation>
+    <Relation>
+      <RelatedId>1045</RelatedId>
+      <RelatedType>USER_ASSETS</RelatedType>
+      <Name><![CDATA[Action1]]></Name>
+      <FSRoot><![CDATA[Test\15\15\6]]></FSRoot>
+      <FSPath><![CDATA[Test\15\15\6]]></FSPath>
+      <QCPath><![CDATA[Subject\demo video_Copy\FindFlight._Copy_2..]]></QCPath>
+    </Relation>
+  </Owner>
+  <Owner>
+    <OwnerId>1045</OwnerId>
+    <OwnerType>USER_ASSETS</OwnerType>
+    <Name><![CDATA[Action1]]></Name>
+    <FSRoot><![CDATA[Test\15\15\6]]></FSRoot>
+    <FSPath><![CDATA[Test\15\15\6]]></FSPath>
+    <QCPath><![CDATA[Subject\demo video_Copy\FindFlight._Copy_2..]]></QCPath>
+    <Relation>
+      <RelatedId>1044</RelatedId>
+      <RelatedType>USER_ASSETS</RelatedType>
+      <Name><![CDATA[TEST_Data]]></Name>
+      <FSRoot><![CDATA[Test\15\15\6]]></FSRoot>
+      <FSPath><![CDATA[Test\15\15\6]]></FSPath>
+      <QCPath><![CDATA[Subject\demo video_Copy\FindFlight._Copy_2..]]></QCPath>
+      <Condition>NONE</Condition>
+      <Order>1</Order>
+    </Relation>
+  </Owner>
+</Owners>
